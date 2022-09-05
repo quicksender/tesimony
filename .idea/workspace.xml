@@ -5,20 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0df07218-f847-43e6-9983-b9fd7287caf2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/for_loop/EvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/for_loop/PrintRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/for_loop/PrintRightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/if_else/CompareNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/if_else/MaxOfFour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/if_else/MinOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/if_else/SortOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/while_loop/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/while_loop/PrintStringNTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/while_loop/SSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/while_loop/TenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/while_loop/TenNumbersReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/Cat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/Cat3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/Cat4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/Cat5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/Cat6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/DivideArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/MaxOf20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/TaskOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework5/TwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="HomeWork3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,29 +45,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2DjIPxy05wAyAFBfBwVQHj6x5Kr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="while_loop.MultiplicationTable" />
+}</component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Cat1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Cat1" />
       <module name="testimony" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="while_loop.*" />
+          <option name="PATTERN" value="homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintStringNTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="while_loop.PrintStringNTimes" />
+    <configuration name="Cat2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Cat2" />
       <module name="testimony" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="while_loop.*" />
+          <option name="PATTERN" value="homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="while_loop.SSquare" />
+    <configuration name="Cat5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Cat5" />
       <module name="testimony" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="while_loop.*" />
+          <option name="PATTERN" value="homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="while_loop.TenNumbers" />
+    <configuration name="MaxOf20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.MaxOf20" />
       <module name="testimony" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="while_loop.*" />
+          <option name="PATTERN" value="homework5.cat1" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenNumbersReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="while_loop.TenNumbersReverse" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework5.Solution" />
       <module name="testimony" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="while_loop.*" />
+          <option name="PATTERN" value="homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.SSquare" />
-        <item itemvalue="Application.TenNumbersReverse" />
-        <item itemvalue="Application.TenNumbers" />
-        <item itemvalue="Application.PrintStringNTimes" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Cat5" />
+        <item itemvalue="Application.Cat2" />
+        <item itemvalue="Application.Cat1" />
+        <item itemvalue="Application.MaxOf20" />
       </list>
     </recent_temporary>
   </component>
@@ -156,5 +161,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/while_loop/MultiplicationTable.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
